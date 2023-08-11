@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class Main {
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
-            System.out.println("Hello world, aburrido en una clase de java");
 
             System.out.println("Ingrese el primer número: ");
             int num1 = scanner.nextInt();
